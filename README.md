@@ -73,6 +73,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Johnson's Ginger Snaps](url)
 - [Lemon Bars](url)
 - [Moravian Spice Crisps](url)
+- [Plum Apple Pie](https://smittenkitchen.com/2010/10/single-crust-plum-and-apple-pie/)
 - [Pumpkin Muffins](url)
 - [Rhubarb Crisp](url)
 - [Roberta Deford's Granola](url)
