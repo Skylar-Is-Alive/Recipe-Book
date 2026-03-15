@@ -1,10 +1,6 @@
 # Recipe-Book
 My personal recipe book of recipes stolen from family, friends, and randos on the internet
 
-## Condiments
-
-- [Lemon Curd](url)
-
 ## Side Dishes
 
 - [Broccoli Salad](url)
@@ -72,6 +68,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Johnson's Ginger Cookies](url)
 - [Johnson's Ginger Snaps](url)
 - [Lemon Bars](url)
+- [Lemon Curd Pie](url)
 - [Moravian Spice Crisps](url)
 - [Plum Apple Pie](https://smittenkitchen.com/2010/10/single-crust-plum-and-apple-pie/)
 - [Pumpkin Muffins](url)
