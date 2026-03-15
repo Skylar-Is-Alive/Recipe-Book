@@ -22,12 +22,12 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 ## Main Dishes
 
 - [African Style Chicken in Peanut Sauce](url)
-- [Balthazar's Cream of Mushroom Soup](https://smittenkitchen.com/2007/01/balthazar-cream-of-mushroom-soup/)
 - [Bhindi Do Pyaza](https://www.indianhealthyrecipes.com/bhindi-do-pyaza/)
 - [Borcht](url)
 - [Carbonara](url)
 - [Cha Grong](url)
 - [Cinicinnati Chilli](url)
+- [Cream of Mushroom Soup (Balthazar's)](https://smittenkitchen.com/2007/01/balthazar-cream-of-mushroom-soup/)
 - [Dilled Potato and Pickled Cucumber Salad](https://smittenkitchen.com/2007/06/dilled-potato-and-pickled-cucumber-salad/)
 - [Empanadas](https://therecipecritic.com/empanadas/)
 - [Enchiladas](url)
@@ -67,6 +67,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Bubble Bread](url)
 - [Carrot Cake](url)
 - [Cheese Cake](url)
+- [Chocolate Truffles (Robert Linxe's)](https://smittenkitchen.com/2007/12/robert-linxes-chocolate-truffles/)
 - [Cranberry Orange Muffins](url)
 - [Johnson's Ginger Cookies](url)
 - [Johnson's Ginger Snaps](url)
@@ -75,6 +76,5 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Pumpkin Muffins](url)
 - [Rhubarb Crisp](url)
 - [Roberta Deford's Granola](url)
-- [Robert Linxe's Chocolate Truffles](https://smittenkitchen.com/2007/12/robert-linxes-chocolate-truffles/)
 - [Spiced Peanuts](url)
 - [Zucchini Bread](url)
