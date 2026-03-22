@@ -92,4 +92,5 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Roberta Deford's Granola](url)
 - [Sketchy Rubber Mead Wuffins (Bouncy Muffins)](url)
 - [Spiced Peanuts](url)
+- [Trifle](url)
 - [Zucchini Bread](url)
