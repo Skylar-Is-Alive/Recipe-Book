@@ -8,7 +8,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Charoset](url)
 - [Cheesy Mashed Potatoes](https://simply-delicious-food.com/cheesy-mashed-potatoes/)
 - [Cornbread (Savoury)](url)
-- [Cornbread (Sweet)](url)
+- [Cornbread (Sweet)](https://smittenkitchen.com/2015/02/perfect-corn-muffins/)
 - [Corn Casserole](url)
 - [Deviled Eggs](url)
 - [Green Bean Casserole](url)
