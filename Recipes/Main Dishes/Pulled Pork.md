@@ -3,6 +3,7 @@
 ### Substance
 - Pork (Shoulder)
 - Onions
+- Buns
 
 ### Spices
 - [Enchilada Sauce](url)
