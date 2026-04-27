@@ -28,14 +28,13 @@
 ---
 1. Julienne carrots
 2. Julienne onions
-3. Put into containers for sandwich assembly
+3. Put into seperate containers for sandwich assembly
 
 ### Head Chef
 1. Rub spices into pork
 2. Sear pork
-3. Put into crock pot
-4. Leave on low with taco sauce for 8 hours
-5. Tear meat apart
+3. Put into crock pot and leave on low with taco sauce for 8 hours
+4. Tear meat apart after 8 hours
 
 ## Eat
 1. Put meat, julienned carrots, and onions on bun
