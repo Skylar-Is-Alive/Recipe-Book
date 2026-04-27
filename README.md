@@ -54,7 +54,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 - [Pad Thai](url)
 - [Pizza](url)
 - [Puerto Rican Rice and Beans](url)
-- [Pulled Pork](https://github.com/Skylar-Is-Alive/Recipe-Book/blob/main/Recipes/Pulled%20Pork.md)
+- [Pulled Pork](https://github.com/Skylar-Is-Alive/Recipe-Book/blob/main/Recipes/Main%20Dishes/Pulled%20Pork.md)
 - [Pancakes (Pumpkin)](url)
 - [Quiche](url)
 - [Roasted Egg Stew](url)
