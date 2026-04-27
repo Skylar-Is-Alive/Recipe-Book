@@ -27,7 +27,7 @@
 3. Put both into crock pot
 ---
 1. Julienne carrots
-2. Julienne Onions
+2. Julienne onions
 3. Put into containers for sandwich assembly
 
 ### Head Chef
