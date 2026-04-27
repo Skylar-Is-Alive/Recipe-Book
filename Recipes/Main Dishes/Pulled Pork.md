@@ -36,7 +36,7 @@
 1. Rub spices into pork
 2. Sear pork
 3. Put into crock pot and leave on low with sauce for 8 hours
-4. Tear meat apart after 8 hours
+4. Tear meat apart once it's tearable
 
 ### Sous Chef 2
 1. Julienne carrots
