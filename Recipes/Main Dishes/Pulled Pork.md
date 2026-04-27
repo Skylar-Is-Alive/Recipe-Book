@@ -1,6 +1,6 @@
 # Pulled Pork
 ## Ingedients
-### Substance
+### Meat and Potatoes
 - Pork (Shoulder)
 - Onions
 - Buns
