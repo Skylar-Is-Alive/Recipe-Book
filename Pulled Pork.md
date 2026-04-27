@@ -1,6 +1,6 @@
 # Pulled Pork
 ## Ingedients
-### 
+### Substance
 - Pork (Shoulder)
 - Onions
 
@@ -21,14 +21,22 @@
 - Neutral Oil
 
 ## Method
-### Pork
+### Sous Chef
 1. Make taco sauce if needed
-2. Rub spices over pork
-3. Sear Pork
+2. Dice onions
+3. Put both into crock pot
+---
+1. Julienne carrots
+2. Julienne Onions
+3. Put into containers for sandwich assembly
 
-  1. Roughly dice onions
+### Head Chef
+1. Rub spices into pork
+2. Sear pork
+3. Put into crock pot
+4. Leave on low with taco sauce for 8 hours
+5. Tear meat apart
 
-4. Put pork and onions into crock pot
-
-### Garnish
-1. 
+## Eat
+1. Put meat, julienned carrots, and onions on bun
+2. Consume
