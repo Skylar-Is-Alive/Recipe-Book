@@ -1,4 +1,4 @@
-# Recipe1.Book
+# Recipe Book
 My personal recipe book of recipes stolen from family, friends, and randos on the internet
 
 ## Side Dishes
