@@ -14,8 +14,8 @@
 - Coriander
 
 ### Garnish
-- Carrots (Julienned)
-- Onions (Julienned)
+- Carrots
+- Onions
 
 ### Standards
 - Neutral Oil
