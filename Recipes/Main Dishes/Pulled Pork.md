@@ -5,7 +5,7 @@
 - Onions
 
 ### Spices
-- [Taco Sauce](url)
+- [Enchilada Sauce](url)
 - Salt
 - Chipotle
 - Chili Powder
@@ -22,7 +22,7 @@
 
 ## Method
 ### Sous Chef
-1. Make taco sauce if needed
+1. Make enchilada sauce if needed
 2. Dice onions
 3. Put both into crock pot
 ---
