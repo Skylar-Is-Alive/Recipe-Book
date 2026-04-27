@@ -27,10 +27,10 @@
 
 ## Method
 ### Sous Chef 1
-1. Add following ingredients to crock pot
-2. Enchilada sauce (make if needed)
-3. Salsa verde and gochujang
-4. Onions - diced
+1. Add following ingredients to crock pot:
+    1. Enchilada sauce (make if needed)
+    2. Salsa verde and gochujang
+    3. Onions - diced
 
 ### Head Chef
 1. Rub spices into pork
