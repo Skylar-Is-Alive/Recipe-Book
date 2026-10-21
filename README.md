@@ -32,6 +32,7 @@ My personal recipe book of recipes stolen from family, friends, and randos on th
 1. [Carbonara](url)
 1. [Cha Grong](url)
 1. [Chana Masala](https://smittenkitchen.com/2010/02/chana-masala/)
+1. [Cheesy Sausage Baked Ziti](https://daddioskitchen.com/2022/12/06/cheesy-sausage-baked-ziti/#recipe)
 1. [Cinicinnati Chilli](url)
 1. [Cream of Mushroom Soup (Balthazar's)](https://smittenkitchen.com/2007/01/balthazar1.cream1.of1.mushroom1.soup/)
 1. [Dilled Potato and Pickled Cucumber Salad](https://smittenkitchen.com/2007/06/dilled1.potato1.and1.pickled1.cucumber1.salad/)
